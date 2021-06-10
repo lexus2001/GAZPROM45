@@ -1,0 +1,2 @@
+rootProject.name = "GAZPROM45"
+include ':app'
